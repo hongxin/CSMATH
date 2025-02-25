@@ -15,7 +15,7 @@ This mathematics course is designed for the first year Ph.D. students of compute
 + [Dr. Yubo Tao](http://www.cad.zju.edu.cn/home/ybtao/), the summer semester
 
 ## TA
-Hongjia Wu, Shi Dong and Shanchen Zou
+Hongjia Wu, Junxi Wang and Yuxi Zhou
 
 ## Classroom & Time
 + Room 202, Building 2, Yuquan Campus, Zhejiang University
