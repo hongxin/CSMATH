@@ -25,12 +25,12 @@ Hongjia Wu, Junxi Wang and Yuxi Zhou
 |  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
 |:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
 | ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
-|  01  |  Introduction       |  2025.02.18  |  [Introduction](pdf/csmath-00-introduction.pdf)           |   [HW01](hw/hw01.md)    |
-|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)         |                         |
-|      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
+|  01  |  Introduction       |  2025.02.18  |  [Introduction](2025/pdf/csmath-00-introduction-2025.pdf)           |   [HW01](hw/hw01.md)    |
+|      |                     |              |  [Why data driven](2025/pdf/csmath-01-data-driven-2025.pdf)         |                         |
+|      |                     |              |  [Point estimation](2025/pdf/csmath-01-point_estimation-2025.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf)  |            |
-|  02  |  Component Analysis |  2025.02.25  |  [SVD and X-PCA](pdf/csmath-02-component_analysis-2022.pdf)  |  [HW02](hw/hw02.md)  |
-|  03  |  Clustering         |  2025.03.04  |  [Clustering](pdf/csmath-03-distance_and_similarity.pdf)  |   [HW03](hw/hw03.md)    |
+|  02  |  Component Analysis |  2025.02.25  |  [SVD and X-PCA](2025/pdf/csmath-02-component_analysis-2025.pdf)  |  [HW02](hw/hw02.md)  |
+|  03  |  Clustering         |  2025.03.04  |  [Clustering](2025/pdf/csmath-03-distance_and_similarity-2025.pdf)  |   [HW03](hw/hw03.md)    |
 |  04  |  Graphical Models   |  2025.03.11  |  [Graphical Models](pdf/csmath-04-graphical_models.pdf)   |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 |      |  Additional Topics  |              |  [Naive Bayes classifier](pdf/ML2007-naive_bayes_classification.pdf)   |            |
