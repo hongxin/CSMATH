@@ -40,12 +40,12 @@ Hongjia Wu, Junxi Wang and Yuxi Zhou
 |      |                     |              |  [Kalman Filter](pdf/ML2007-kalman_filter.pdf)            |                         |
 |      |                     |              |  [Old course](http://www.cad.zju.edu.cn/home/zhx/ML/index_2007.html)   |            |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
-|  05  |  Linear Programming |  2025.03.18  |  [LP-1](pdf/csmath-05-linear_programming.pdf)             |                         |
+|  05  |  Linear Programming |  2025.03.18  |  [LP-1](2025/pdf/csmath-05-linear_programming-2025.pdf)             |                         |
 |      |                     |              |  [English version](pdf/csmath-05-linear_programming_en.pdf)       |                 |
-|  06  |  Linear Programming |  2025.03.25  |  [LP-2](pdf/csmath-06-linear_programming_and_dual_methods.pdf)    |                 |
+|  06  |  Linear Programming |  2025.03.25  |  [LP-2](2025/pdf/csmath-06-linear_programming_and_dual_methods-2025.pdf)    |                 |
 |      |                     |              |  [English version](pdf/csmath-06-linear_programming_and_dual_methods_en.pdf)    |   |
-|  07  |  Non-Linear         |  2025.04.01  |  [NP-1](pdf/csmath-07-nonlinear.pdf)                      |   [HW04](hw/hw04.md)    |
-|  08  |  Non-Linear         |  2025.04.08  |  [NP-2](pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
+|  07  |  Non-Linear         |  2025.04.01  |  [NP-1](2025/pdf/csmath-07-nonlinear-2025.pdf)                      |   [HW04](hw/hw04.md)    |
+|  08  |  Non-Linear         |  2025.04.08  |  [NP-2](2025/pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
 
 
 ## Homework and the Course Paper
