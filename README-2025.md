@@ -1,4 +1,4 @@
-# CSMATH-2005-2026
+# CSMATH-2005-2025
 
 ## About this course
 This mathematics course is designed for the first year Ph.D. students of computer science and related areas. The course focuses on the methodologies, technologies, mathematics and algorithms currently needed by people. We are trying our best to give novice of this area an introduction of mathematics with intuitive explanation, clear concepts as well as vivid application examples. The course consists of basic statistical learning, non-linear optimization, partial differential equations and applied function analysis.
@@ -11,7 +11,7 @@ This mathematics course is designed for the first year Ph.D. students of compute
 
 ## Instructors
 + [Dr. Hongxin Zhang](http://www.cad.zju.edu.cn/home/zhx/), the spring semester, [his weibo](https://weibo.com/kull/)
-+ [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester 
++ [Dr. Ming Li](http://www.cad.zju.edu.cn/liming), the summer semester
 + [Dr. Yubo Tao](http://www.cad.zju.edu.cn/home/ybtao/), the summer semester
 
 ## TA
@@ -25,13 +25,13 @@ Hongjia Wu, Junxi Wang and Yuxi Zhou
 |  No. |   Topic             |     Date     |                  Slides                                   |   Homework              |
 |:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
 | ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
-|  01  |  Introduction       |  2026.03.03  |  [Introduction](2026/pdf/csmath-00-introduction-2026.pdf)           |   [HW01](hw/hw01.md)    |
-|      |                     |              |  [Why data driven](2026/pdf/csmath-01-data-driven-2026.pdf)         |                         |
-|      |                     |              |  [Point estimation](2026/pdf/csmath-01-point_estimation-2026.pdf)   |                         |
+|  01  |  Introduction       |  2025.02.18  |  [Introduction](2025/pdf/csmath-00-introduction-2025.pdf)           |   [HW01](hw/hw01.md)    |
+|      |                     |              |  [Why data driven](2025/pdf/csmath-01-data-driven-2025.pdf)         |                         |
+|      |                     |              |  [Point estimation](2025/pdf/csmath-01-point_estimation-2025.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf)  |            |
-|  02  |  Component Analysis |  2026.03.10  |  [SVD and X-PCA](2026/pdf/csmath-02-component_analysis-2026.pdf)  |  [HW02](hw/hw02.md)  |
-|  03  |  Clustering         |  2026.03.17  |  [Clustering](2026/pdf/csmath-03-distance_and_similarity-2026.pdf)  |   [HW03](hw/hw03.md)    |
-|  04  |  Graphical Models   |  2026.03.24  |  [Graphical Models](2026/pdf/csmath-04-graphical_models-2026.pdf)   |                         |
+|  02  |  Component Analysis |  2025.02.25  |  [SVD and X-PCA](2025/pdf/csmath-02-component_analysis-2025.pdf)  |  [HW02](hw/hw02.md)  |
+|  03  |  Clustering         |  2025.03.04  |  [Clustering](2025/pdf/csmath-03-distance_and_similarity-2025.pdf)  |   [HW03](hw/hw03.md)    |
+|  04  |  Graphical Models   |  2025.03.11  |  [Graphical Models](2025/pdf/csmath-04-graphical_models-2025.pdf)   |                         |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
 |      |  Additional Topics  |              |  [Naive Bayes classifier](pdf/ML2007-naive_bayes_classification.pdf)   |            |
 |      |                     |              |  [Support Vector Machines](pdf/ML2007-SVM.pdf)            |                         |
@@ -40,18 +40,18 @@ Hongjia Wu, Junxi Wang and Yuxi Zhou
 |      |                     |              |  [Kalman Filter](pdf/ML2007-kalman_filter.pdf)            |                         |
 |      |                     |              |  [Old course](http://www.cad.zju.edu.cn/home/zhx/ML/index_2007.html)   |            |
 | ---  |   ---               |  ---         |  ---                                                      |   ---                   |
-|  05  |  Linear Programming |  2026.03.31  |  [LP-1](2026/pdf/csmath-05-linear_programming-2026.pdf)             |                         |
+|  05  |  Linear Programming |  2025.03.18  |  [LP-1](2025/pdf/csmath-05-linear_programming-2025.pdf)             |                         |
 |      |                     |              |  [English version](pdf/csmath-05-linear_programming_en.pdf)       |                 |
-|  06  |  Linear Programming |  2026.04.07  |  [LP-2](2026/pdf/csmath-06-linear_programming_and_dual_methods-2026.pdf)    |                 |
+|  06  |  Linear Programming |  2025.03.25  |  [LP-2](2025/pdf/csmath-06-linear_programming_and_dual_methods-2025.pdf)    |                 |
 |      |                     |              |  [English version](pdf/csmath-06-linear_programming_and_dual_methods_en.pdf)    |   |
-|  07  |  Non-Linear         |  2026.04.14  |  [NP-1](2026/pdf/csmath-07-nonlinear-2026.pdf)                      |   [HW04](hw/hw04.md)    |
-|  08  |  Non-Linear         |  2026.04.21  |  [NP-2](2026/pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
+|  07  |  Non-Linear         |  2025.04.01  |  [NP-1](2025/pdf/csmath-07-nonlinear-2025.pdf)                      |   [HW04](hw/hw04.md)    |
+|  08  |  Non-Linear         |  2025.04.08  |  [NP-2](2025/pdf/csmath-08-nonlinear_and_qp.pdf)               |   [HW05](hw/hw05.md)    |
 
 
 ## Homework and the Course Paper
-Please hand out your 1 [course paper](coursepaper/README.md) and [5 selected homework](hw/README.md) (or exercises) by 06-01. 
+Please hand out your 1 [course paper](coursepaper/README.md) and [5 selected homework](hw/README.md) (or exercises) by 06-01.
 
-All homework and exercises must be implemented in Python. 
+All homework and exercises must be implemented in Python.
 
 ## Content
 
@@ -75,8 +75,8 @@ Optimization methods, both linear and non-linear ones, are important mathematica
 Students entering the class should have a pre-existing working knowledge of fundamental mathematics and algorithms, though the class has been designed to allow students with a strong numerate background to catch up and fully participate.
 
 ## Copyright
-2005-2026 Copyright By Dr. Hongxin Zhang AT Zhejiang University
+2005-2025 Copyright By Dr. Hongxin Zhang AT Zhejiang University
 
-浙江大学 2005-2026 版权所有，如需转载或引用本课程相关内容，请与作者联系。
+浙江大学 2005-2025 版权所有，如需转载或引用本课程相关内容，请与作者联系。
 
 You can also visit my weibo: https://weibo.com/kull
